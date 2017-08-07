@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b9c469f272a8b465e8b21730907db3c3
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 60
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+Timer:90
+
+*---------- Puzzle 1
+CubesPerRow:4
+PuzzleHeight:3
+FrontImgName:4x3a
+SideImgName:4x3b
+
+Static:3
+Freeze:0
+Blitz:0
+
+*---------- Puzzle 2
+CubesPerRow:3
+PuzzleHeight:3
+FrontImgName:1x1p
+SideImgName:1x1q
+
+Static:4
+Freeze:0
+Blitz:0

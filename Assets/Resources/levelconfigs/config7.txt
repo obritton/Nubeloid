@@ -1,0 +1,9 @@
+*---------- Puzzle 1
+CubesPerRow:3
+PuzzleHeight:1
+FrontImgName:3x1e
+SideImgName:3x1f
+
+Static:1
+Freeze:0
+Blitz:0

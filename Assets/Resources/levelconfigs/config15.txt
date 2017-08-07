@@ -1,0 +1,11 @@
+Timer:60
+
+*---------- Puzzle 1
+CubesPerRow:4
+PuzzleHeight:2
+FrontImgName:4x2a
+SideImgName:4x2b
+
+Static:1
+Freeze:0
+Blitz:0

@@ -1,0 +1,19 @@
+*---------- Puzzle 1
+CubesPerRow:2
+PuzzleHeight:1
+FrontImgName:2x1d
+SideImgName:2x1e
+
+Static:0
+Freeze:0
+Blitz:0
+
+*---------- Puzzle 2
+CubesPerRow:4
+PuzzleHeight:1
+FrontImgName:4x1
+SideImgName:4x1a
+
+Static:0
+Freeze:0
+Blitz:0
